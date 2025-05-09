@@ -1,0 +1,39 @@
+{
+  "name": "saudeglobal",
+  "version": "1.0.0",
+  "description": "Portal sobre doenças, pandemias e desastres naturais",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": ["saúde", "doenças", "pandemia", "brasil"],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "dependencies": {
+    "firebase": "^9.23.0",
+    "leaflet": "^1.9.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-firebase-hooks": "^5.1.1",
+    "react-router-dom": "^6.22.0",
+    "react-scripts": "5.0.1",
+    "xlsx": "^0.20.1",
+    "chart.js": "^4.4.1",
+    "react-chartjs-2": "^4.4.2"
+  }
+}
