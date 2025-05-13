@@ -18,8 +18,7 @@ const Dashboard = () => {
   return (
     <div>
       <h2>Casos de Doenças</h2>
-      <Bar data={data} />
-    </div>
+      </div>
   );
 };
 
